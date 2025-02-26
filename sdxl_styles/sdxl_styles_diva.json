@@ -2,27 +2,27 @@
     {
         "name": "cinematic-diva",
         "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
-        "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
+        "negative_prompt": "ugly, deformed, noisy, blurry, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Abstract Expressionism",
         "prompt": "Abstract Expressionism Art, {prompt}, High contrast, minimalistic, colorful, stark, dramatic, expressionism",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Academia",
         "prompt": "Academia, {prompt}, preppy Ivy League style, stark, dramatic, chic boarding school, academia",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Action Figure",
         "prompt": "Action Figure, {prompt}, plastic collectable action figure, collectable toy action figure",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Adorable 3D Character",
         "prompt": "Adorable 3D Character, {prompt}, 3D render, adorable character, 3D art",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Adorable Kawaii",
@@ -32,17 +32,17 @@
     {
         "name": "Art Deco",
         "prompt": "Art Deco, {prompt}, sleek, geometric forms, art deco style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Art Nouveau",
         "prompt": "Art Nouveau, beautiful art, {prompt}, sleek, organic forms, long, sinuous, art nouveau style",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, industrial, mechanical"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, industrial, mechanical, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Astral Aura",
         "prompt": "Astral Aura, {prompt}, astral, colorful aura, vibrant energy",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, ai fake, body fake, face fake, image fake, details fake, clothes fake"
     },
     {
         "name": "Avant-garde",
